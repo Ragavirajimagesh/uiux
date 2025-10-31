@@ -1,0 +1,11 @@
+# Clone the repository
+git clone https://github.com/<your-username>/minimalist-recipe-app.git
+
+# Navigate to the project directory
+cd minimalist-recipe-app
+
+# Install dependencies
+npm install   # or pip install -r requirements.txt for Python projects
+
+# Start the development server
+npm start     # or streamlit run app.py
